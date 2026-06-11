@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-ably-cloud-bridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ably": "^1.2.49",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
