@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-ably-cloud-bridge",
+  "name": "whatsapp-ably-bridge",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
